@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_8dd3332fee36a5e7a3ed83080604ca66053895d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_84717273381414a10a7baad86b2a745f7b3b0368.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_fef818d80c590f7ddfab8431f4901d696a4f3283.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_69345de3c133ecca1dc62ba45dfd11d7f54e0354.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_ff40d4ba8cf1967a0cee14d636654dc3aa3cbfcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_ca4495e4c68e2128f77e081990ed3a554e233683.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_6b6657cc6c861a9063dae529f6cb1a542ae366c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_e88d58efed263b0993b3d98b685fbc05c06a9b79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_d9d9edf2baf6a1015dd750ea20064c307c5a81a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/shenjiaqi/Desktop/git/NestedScrollingParent-Child/MyNestedScrolling/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_141cb959c8878a86ef6b2381b5d7c856c251e0b9.jar" />
+    </item>
+
+</items>
